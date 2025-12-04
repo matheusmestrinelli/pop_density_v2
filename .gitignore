@@ -1,1 +1,8 @@
-
+__pycache__/
+data/ibge_cache/
+*.kml
+temp_*.*
+*.png
+.DS_Store
+.env
+.venv/
