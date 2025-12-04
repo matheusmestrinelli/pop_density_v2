@@ -1,1 +1,5 @@
-
+buffers:
+  fg_size: 50.0
+  cv_size: 100.0
+ibge:
+  default_grids: ["grade_id26.zip"]
