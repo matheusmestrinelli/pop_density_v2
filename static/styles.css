@@ -1,1 +1,19 @@
+.stApp {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.stButton > button {
+    background: linear-gradient(45deg, #054750, #0a7a9a);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 0.5rem 2rem;
+    font-weight: bold;
+}
+
+.stDownloadButton > button {
+    background: linear-gradient(45deg, #28a745, #20c997);
+    color: white;
+    border-radius: 8px;
+}
 
