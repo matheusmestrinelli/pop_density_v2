@@ -1,5 +1,9 @@
 buffers:
   fg_size: 50.0
   cv_size: 100.0
+  grb_size: 200.0
+  adj_size: 500.0
+
 ibge:
-  default_grids: ["grade_id26.zip"]
+  default_urls:
+    - "https://geoftp.ibge.gov.br/recortes_para_fins_estatisticos/grade_estatistica/censo_2022/grade_estatistica/grade_id26.zip"
